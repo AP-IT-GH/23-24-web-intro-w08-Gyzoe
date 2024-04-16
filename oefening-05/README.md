@@ -9,7 +9,7 @@ Tijdens dit labo leer je
 
  - Start Postman.
 
-### authentificatie met api key
+### authentificatie met api key    afd0340f2ade4b808e696e1f471a3eb7
 
  - [API: News API](https://newsapi.org)
  - endpoint: /top-headlines
